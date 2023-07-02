@@ -30,7 +30,7 @@ This repo was forked from the Cleanfolio repo which you can find [here](https://
 ## Getting Started
 
 ### Running Locally
-<!-- 
+
 npm
 
 ```bash
@@ -51,8 +51,7 @@ yarn dev
 
 ### Making Changes
 
-- Go to `data/portfolio.js` and replace the placeholder data with your own. -->
-<!-- 
+- Go to `data/portfolio.js` and replace the placeholder data with your own.
 - To add a favicon to your site, put your `favicon.ico` file directly in the `public/` folder.
 
 ### Google Analytics (Optional)
@@ -83,7 +82,7 @@ GOOGLE_ANALYTICS_MEASUREMENT_ID=$MEASUREMENT_ID
 
 - Click **Deploy**.
 
-- If everything went smoothly, your portfolio should now be live. Congrats! 🎉 -->
+- If everything went smoothly, your portfolio should now be live. Congrats! 🎉
 
 ## License
 
