@@ -73,6 +73,8 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'C#',
+  '.Net Core',
   'HTML',
   'CSS',
   'JavaScript',
@@ -80,12 +82,10 @@ const skills = [
   'Angular',
   'Redux-NgRx',
   'SASS',
-  'C#',
-  '.Net Core',
+  'Docker',
   'Git',
   'CI/CD',
   'Jasmine',
-  'Docker',
 ]
 
 const contact = {
